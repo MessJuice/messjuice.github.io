@@ -2,13 +2,17 @@
 
 - type: github
   icon: "fab fa-github"
+  
+- type: bilibili
+  icon: "fa-brands fa-bilibili"
+  url: 'https://www.bilibili.com/video/BV1GJ411x7h7'
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+# - type: twitter
+#   icon: "fa-brands fa-x-twitter"
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+# - type: email
+#   icon: "fas fa-envelope"
+#   noblank: true # open link in current tab
 
 - type: rss
   icon: "fas fa-rss"
